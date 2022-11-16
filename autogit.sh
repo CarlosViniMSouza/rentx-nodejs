@@ -1,4 +1,4 @@
 git add .
-git commit -m "infra folder -> middlewares done"
+git commit -m "infra folder -> routes done"
 git push -u origin main
 git status
