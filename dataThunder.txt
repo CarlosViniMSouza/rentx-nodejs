@@ -1,0 +1,13 @@
+--> For POST router:
+
+"name": "Next.js Specialize",
+"description": "A experting course about Next.js Ecossystem"
+
+"name": "React.js Specialize",
+"description": "A experting course about React.js Ecossystem"
+
+"name": "React Native Specialize",
+"description": "A experting course about React Native Ecossystem"
+
+"name": "Nest.js Native Specialize",
+"description": "Learn the build scalable and safe applications with Nest.js Framework"
