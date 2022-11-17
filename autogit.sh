@@ -1,4 +1,4 @@
 git add .
-git commit -m "modules accounts -> useCases done"
+git commit -m "modules rentals done"
 git push -u origin main
 git status
